@@ -1,4 +1,1 @@
-body {
-  background: #f00;
-  color: ff0;
-}
+body{background:#28bcd0;color:rgba(170,170,170,0.667);font-family:Verdana;font-size:16px;z-index:1;headerbackground:#28bcd0;max-width:1200px;min-width:1000px;z-index:2}
