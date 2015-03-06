@@ -1,0 +1,26 @@
+body
+{
+	max-width: 1200px;
+	max-height: auto;
+	min-height: auto;
+	min-width: 320px;
+	
+}
+.video
+{
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	position: relative; 
+}
+
+.video video
+{
+	height: 100%;
+	left: -5;
+	position: absolute;
+	top: -5;
+	width: 100%;
+
+}
